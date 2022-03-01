@@ -121,3 +121,13 @@ img.image-about {
   float: right;
   margin-right: 100px
 }
+.button{
+  background-color: crimson;
+  color: azure;
+  text-decoration: none;
+  border: 2px solid transparent;
+  font-weight: bold;
+  padding: 12px 28px;
+  border-radius: 28px;
+  transition: 4s;
+}
